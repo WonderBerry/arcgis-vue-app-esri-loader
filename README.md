@@ -1,4 +1,4 @@
-# arcgis-test-app
+# arcgis-vue-app-esri-loader
 
 ## Project setup
 ```
