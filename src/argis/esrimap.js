@@ -15,6 +15,7 @@ export const createMap = () => {
 // from master
 
 // changes from W2 branch
+// changes from W3
 
 export const createMap2D = (map, initialParam) => {
   const view = new MapView({
