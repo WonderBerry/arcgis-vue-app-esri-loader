@@ -14,6 +14,7 @@ export const createMap = () => {
 };
 // from master
 
+
 export const createMap2D = (map, initialParam) => {
   const view = new MapView({
     map: map,
