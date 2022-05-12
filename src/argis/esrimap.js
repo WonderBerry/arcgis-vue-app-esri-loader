@@ -14,6 +14,8 @@ export const createMap = () => {
 };
 // from master
 
+// changes from W2 branch
+
 export const createMap2D = (map, initialParam) => {
   const view = new MapView({
     map: map,
